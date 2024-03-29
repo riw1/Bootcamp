@@ -1,0 +1,12 @@
+.container{
+    display:grid;
+    grid-template-rows: 1fr 1fr 2fr;
+    grid-template-columns: auto auto minmax(100px,200px);
+}
+.subcont{
+    background-color: blueviolet;
+    /* width: 400px; */
+    margin: 1px;
+    text-align: center;
+    color: aqua;
+}

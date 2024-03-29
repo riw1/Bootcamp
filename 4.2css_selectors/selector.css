@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+.note{
+    
+    font-size: 20px;
+}
+#demo{
+    color: green;
+}
+
+li[value="4"]{
+    color:blue;
+}
+p{
+    color: red;
+}
+ol{
+    margin-top: -20px;
+    margin-left: -40px;
+    list-style-position:inside;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+#image{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+  border: 5px solid white;
+  border-radius: 10px;
+}
+#hed{
+    text-align: center;
+    color: aliceblue;
+}
+#para{
+    text-align: center;
+    color: aliceblue;
+}
+img{
+    width: 100%;
+}
+h1{
+    text-transform: uppercase;
+    font-family: "bre Baskerville",sans-serif;
+}

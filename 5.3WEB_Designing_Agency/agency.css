@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 5rem;
+}
+footer{
+    color: midnightblue;
+    text-align: right;
+    clear: left;
+    
+}
+span{
+    color: midnightblue;
+}
+.left-image{
+   
+    float: left;
+    
+}
+.right-image{
+    float: right;
+}
+.para{
+    float: right;
+}
+.info-img{
+    width: 400px;
+}
+@media(max-width:319px){
+    .info-img{
+        width: auto;
+    }
+}

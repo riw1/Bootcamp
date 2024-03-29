@@ -1,0 +1,27 @@
+p{
+    margin: 0;
+}
+#container{
+    background-color: aquamarine;
+    border: 10px solid black;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+
+
+}
+#container_2{
+    background-color: yellow;
+    border:20px solid black ;
+    border-width: 20px 10px ;
+    margin-left: 259px;
+    height: 200px;
+    width: 200px;
+}
+#container_3{
+    background-color: brown;
+    border: 10px solid black;
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+}
